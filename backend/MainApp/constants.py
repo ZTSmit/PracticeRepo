@@ -1,0 +1,7 @@
+
+# For the purposes of autocomplete
+METHOD_GET = 'GET'
+METHOD_POST = 'POST'
+METHOD_PATCH = 'PATCH'
+METHOD_PUT = 'PUT'
+METHOD_DELETE = 'DELETE'
